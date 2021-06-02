@@ -1,0 +1,5 @@
+Log file created at: 2021/06/02 01:14:40
+Running on machine: LAPTOP-PG81ECDD
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20210602 01:14:40.524507  1215 testgeometry.cpp:11] HelloWorld
