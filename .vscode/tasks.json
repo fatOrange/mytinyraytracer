@@ -6,7 +6,7 @@
             "command": "bazel",
             "args": [
                 "build",
-                "//geometry:testgeometry",
+                "//geometry:${fileBasenameNoExtension}",
                 "--compilation_mode=dbg"
             ],
             "options": {

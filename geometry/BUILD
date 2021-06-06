@@ -5,3 +5,9 @@ cc_binary(
     srcs = ["testgeometry.cpp","geometry.h"],
     deps = ["@com_github_google_glog//:glog"],
 )
+
+cc_binary(
+    name = "tinyraytracer",
+    srcs = ["tinyraytracer.cpp","geometry.h"],
+    deps = ["@com_github_google_glog//:glog"],
+)
